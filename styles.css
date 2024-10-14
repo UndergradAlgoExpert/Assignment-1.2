@@ -348,6 +348,16 @@ footer .socials a:hover {
         font-size: 1.5rem;
     }
 
+    nav {
+        height: 60px;
+    }
+
+    .nav-elements {
+        font-size: 1rem;
+    }
+
+
+
     .subjects-overview{
         grid-template-columns: 1fr 1fr;
     }
@@ -413,7 +423,7 @@ footer .socials a:hover {
     }
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 450px) {
     table {
         
         font-size: 0.5rem;
