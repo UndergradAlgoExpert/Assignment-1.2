@@ -368,10 +368,11 @@ footer .socials a:hover {
         height: 100px;
     }
 
-    .socials {
+    footer .socials {
         grid-column: 1/-1;
         grid-row: 1/2;
         margin: 0 auto;
+        width: 70%;
     }
 
     p {
